@@ -1,0 +1,17 @@
+{
+    "name": "Grommash Hellscream",
+    "description": "A relentlessly aggressive general who favors brute force.",
+    "personality": {
+        "aggression": 0.9,
+        "caution": 0.1,
+        "strategic_flexibility": 0.2
+    },
+    "knowledge_base_path": "base_knowledge.json",
+    "tactical_matrix": {
+        "default": "charge",
+        "vs_infantry": "charge",
+        "vs_archers": "overwhelm",
+        "vs_cavalry": "charge",
+        "when_outnumbered": "desperate_charge"
+    }
+} 

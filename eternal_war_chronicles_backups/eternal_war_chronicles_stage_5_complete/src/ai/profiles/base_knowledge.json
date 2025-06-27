@@ -1,0 +1,33 @@
+{
+    "terrain": {
+        "forest": {
+            "movement_modifier": 0.7,
+            "combat_bonus_for": ["archers", "spearmen"],
+            "combat_penalty_for": ["cavalry"]
+        },
+        "plains": {
+            "movement_modifier": 1.0,
+            "combat_bonus_for": ["cavalry"],
+            "combat_penalty_for": []
+        },
+        "mountains": {
+            "movement_modifier": 0.5,
+            "combat_bonus_for": ["spearmen"],
+            "combat_penalty_for": ["cavalry"]
+        }
+    },
+    "unit_counters": {
+        "spearman": {
+            "strong_vs": ["cavalry"],
+            "weak_vs": ["archer"]
+        },
+        "archer": {
+            "strong_vs": ["spearman"],
+            "weak_vs": ["cavalry"]
+        },
+        "knight": {
+            "strong_vs": ["archer"],
+            "weak_vs": ["spearman"]
+        }
+    }
+} 

@@ -1,0 +1,170 @@
+2025-06-22 05:55:37 - [game.__init__] - INFO - Map seed: 957711
+2025-06-22 05:55:44 - [game._setup_world] - INFO - Setting up the world...
+2025-06-22 05:55:44 - [game._setup_world] - INFO - Faction 1: Order of the Sun (color: Blue)
+2025-06-22 05:55:44 - [game._setup_world] - INFO - Faction 2: Shadow Syndicate (color: Red)
+2025-06-22 05:55:44 - [game._find_valid_spawn_point] - DEBUG - Found valid spawn point at (5, 39)
+2025-06-22 05:55:44 - [game._find_valid_spawn_point] - DEBUG - Found valid spawn point at (81, 27)
+2025-06-22 05:55:44 - [profile_manager.load_profile] - DEBUG - Loading AI profile from: C:\eternal_war_chronicles\src\ai\profiles\aggressive_general.json
+2025-06-22 05:55:44 - [profile_manager.load_knowledge_base] - DEBUG - Loading AI knowledge base from: C:\eternal_war_chronicles\src\ai\profiles\base_knowledge.json
+2025-06-22 05:55:44 - [general_ai.__init__] - INFO - General Grommash Hellscream (Faction: Order of the Sun) has taken command of an army.
+2025-06-22 05:55:44 - [profile_manager.load_profile] - DEBUG - Loading AI profile from: C:\eternal_war_chronicles\src\ai\profiles\aggressive_general.json
+2025-06-22 05:55:44 - [profile_manager.load_knowledge_base] - DEBUG - Loading AI knowledge base from: C:\eternal_war_chronicles\src\ai\profiles\base_knowledge.json
+2025-06-22 05:55:44 - [general_ai.__init__] - INFO - General Grommash Hellscream (Faction: Shadow Syndicate) has taken command of an army.
+2025-06-22 05:55:44 - [game._setup_world] - INFO - World setup complete.
+2025-06-22 05:55:44 - [general_ai.update] - INFO - General Grommash Hellscream has acquired a new target: Shadow Syndicate's army (ID: 2193859413520).
+2025-06-22 05:55:44 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:44 - [general_ai.update] - INFO - General Grommash Hellscream has acquired a new target: Order of the Sun's army (ID: 2193859412848).
+2025-06-22 05:55:45 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 38) (Faction: Order of the Sun).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859413520 moved to tile (81, 26) (Faction: Shadow Syndicate).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 37) (Faction: Order of the Sun).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859413520 moved to tile (80, 25) (Faction: Shadow Syndicate).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 36) (Faction: Order of the Sun).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859413520 moved to tile (79, 25) (Faction: Shadow Syndicate).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859413520 moved to tile (78, 25) (Faction: Shadow Syndicate).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 35) (Faction: Order of the Sun).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859413520 moved to tile (77, 25) (Faction: Shadow Syndicate).
+2025-06-22 05:55:45 - [army.update] - DEBUG - Army 2193859413520 moved to tile (76, 25) (Faction: Shadow Syndicate).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859413520 moved to tile (75, 24) (Faction: Shadow Syndicate).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 34) (Faction: Order of the Sun).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859413520 moved to tile (74, 24) (Faction: Shadow Syndicate).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859413520 moved to tile (73, 23) (Faction: Shadow Syndicate).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 33) (Faction: Order of the Sun).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859413520 moved to tile (72, 22) (Faction: Shadow Syndicate).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 32) (Faction: Order of the Sun).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859413520 moved to tile (71, 21) (Faction: Shadow Syndicate).
+2025-06-22 05:55:46 - [army.update] - DEBUG - Army 2193859413520 moved to tile (70, 20) (Faction: Shadow Syndicate).
+2025-06-22 05:55:46 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:47 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 31) (Faction: Order of the Sun).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859413520 moved to tile (69, 19) (Faction: Shadow Syndicate).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859413520 moved to tile (68, 18) (Faction: Shadow Syndicate).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 30) (Faction: Order of the Sun).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859413520 moved to tile (67, 17) (Faction: Shadow Syndicate).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859413520 moved to tile (66, 16) (Faction: Shadow Syndicate).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 29) (Faction: Order of the Sun).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859413520 moved to tile (65, 15) (Faction: Shadow Syndicate).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859413520 moved to tile (64, 14) (Faction: Shadow Syndicate).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859412848 moved to tile (4, 28) (Faction: Order of the Sun).
+2025-06-22 05:55:47 - [army.update] - DEBUG - Army 2193859413520 moved to tile (63, 13) (Faction: Shadow Syndicate).
+2025-06-22 05:55:48 - [army.update] - DEBUG - Army 2193859413520 moved to tile (62, 12) (Faction: Shadow Syndicate).
+2025-06-22 05:55:48 - [army.update] - DEBUG - Army 2193859413520 moved to tile (61, 11) (Faction: Shadow Syndicate).
+2025-06-22 05:55:48 - [army.update] - DEBUG - Army 2193859413520 moved to tile (60, 10) (Faction: Shadow Syndicate).
+2025-06-22 05:55:48 - [army.update] - DEBUG - Army 2193859413520 moved to tile (60, 9) (Faction: Shadow Syndicate).
+2025-06-22 05:55:48 - [army.update] - DEBUG - Army 2193859413520 moved to tile (60, 8) (Faction: Shadow Syndicate).
+2025-06-22 05:55:48 - [army.update] - DEBUG - Army 2193859413520 moved to tile (59, 7) (Faction: Shadow Syndicate).
+2025-06-22 05:55:48 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:49 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:49 - [army.update] - DEBUG - Army 2193859413520 moved to tile (58, 6) (Faction: Shadow Syndicate).
+2025-06-22 05:55:49 - [army.update] - DEBUG - Army 2193859413520 moved to tile (57, 5) (Faction: Shadow Syndicate).
+2025-06-22 05:55:49 - [army.update] - DEBUG - Army 2193859413520 moved to tile (56, 5) (Faction: Shadow Syndicate).
+2025-06-22 05:55:49 - [army.update] - DEBUG - Army 2193859413520 moved to tile (55, 5) (Faction: Shadow Syndicate).
+2025-06-22 05:55:49 - [army.update] - DEBUG - Army 2193859413520 moved to tile (54, 4) (Faction: Shadow Syndicate).
+2025-06-22 05:55:49 - [army.update] - DEBUG - Army 2193859413520 moved to tile (53, 3) (Faction: Shadow Syndicate).
+2025-06-22 05:55:49 - [army.update] - DEBUG - Army 2193859413520 moved to tile (52, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:49 - [army.update] - DEBUG - Army 2193859413520 moved to tile (51, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (50, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (49, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (48, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (47, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (46, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (45, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859412848 moved to tile (5, 28) (Faction: Order of the Sun).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (44, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (43, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:50 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:50 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:50 - [army.update] - DEBUG - Army 2193859413520 moved to tile (42, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859413520 moved to tile (41, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859413520 moved to tile (40, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859413520 moved to tile (39, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859413520 moved to tile (38, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859413520 moved to tile (37, 1) (Faction: Shadow Syndicate).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859412848 moved to tile (6, 28) (Faction: Order of the Sun).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859413520 moved to tile (36, 0) (Faction: Shadow Syndicate).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859413520 moved to tile (35, 0) (Faction: Shadow Syndicate).
+2025-06-22 05:55:51 - [army.update] - DEBUG - Army 2193859413520 moved to tile (34, 0) (Faction: Shadow Syndicate).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859413520 moved to tile (33, 0) (Faction: Shadow Syndicate).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859412848 moved to tile (7, 28) (Faction: Order of the Sun).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859412848 moved to tile (7, 27) (Faction: Order of the Sun).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859413520 moved to tile (32, 0) (Faction: Shadow Syndicate).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859413520 moved to tile (31, 0) (Faction: Shadow Syndicate).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859413520 moved to tile (31, 1) (Faction: Shadow Syndicate).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859413520 moved to tile (31, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859413520 moved to tile (30, 2) (Faction: Shadow Syndicate).
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859412848 moved to tile (8, 27) (Faction: Order of the Sun).
+2025-06-22 05:55:52 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:52 - [army.update] - DEBUG - Army 2193859412848 moved to tile (8, 26) (Faction: Order of the Sun).
+2025-06-22 05:55:52 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:53 - [army.update] - DEBUG - Army 2193859412848 moved to tile (9, 26) (Faction: Order of the Sun).
+2025-06-22 05:55:53 - [army.update] - DEBUG - Army 2193859412848 moved to tile (9, 25) (Faction: Order of the Sun).
+2025-06-22 05:55:54 - [army.update] - DEBUG - Army 2193859413520 moved to tile (30, 3) (Faction: Shadow Syndicate).
+2025-06-22 05:55:54 - [army.update] - DEBUG - Army 2193859413520 moved to tile (29, 3) (Faction: Shadow Syndicate).
+2025-06-22 05:55:54 - [army.update] - DEBUG - Army 2193859412848 moved to tile (10, 25) (Faction: Order of the Sun).
+2025-06-22 05:55:54 - [army.update] - DEBUG - Army 2193859412848 moved to tile (10, 24) (Faction: Order of the Sun).
+2025-06-22 05:55:54 - [army.update] - DEBUG - Army 2193859413520 moved to tile (29, 4) (Faction: Shadow Syndicate).
+2025-06-22 05:55:54 - [army.update] - DEBUG - Army 2193859413520 moved to tile (28, 4) (Faction: Shadow Syndicate).
+2025-06-22 05:55:54 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:54 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:55 - [army.update] - DEBUG - Army 2193859412848 moved to tile (11, 24) (Faction: Order of the Sun).
+2025-06-22 05:55:55 - [army.update] - DEBUG - Army 2193859412848 moved to tile (11, 23) (Faction: Order of the Sun).
+2025-06-22 05:55:56 - [army.update] - DEBUG - Army 2193859413520 moved to tile (28, 5) (Faction: Shadow Syndicate).
+2025-06-22 05:55:56 - [army.update] - DEBUG - Army 2193859413520 moved to tile (27, 5) (Faction: Shadow Syndicate).
+2025-06-22 05:55:56 - [army.update] - DEBUG - Army 2193859412848 moved to tile (12, 23) (Faction: Order of the Sun).
+2025-06-22 05:55:56 - [army.update] - DEBUG - Army 2193859412848 moved to tile (12, 22) (Faction: Order of the Sun).
+2025-06-22 05:55:56 - [army.update] - DEBUG - Army 2193859412848 moved to tile (13, 22) (Faction: Order of the Sun).
+2025-06-22 05:55:56 - [army.update] - DEBUG - Army 2193859412848 moved to tile (13, 21) (Faction: Order of the Sun).
+2025-06-22 05:55:56 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:56 - [army.update] - DEBUG - Army 2193859413520 moved to tile (27, 6) (Faction: Shadow Syndicate).
+2025-06-22 05:55:56 - [army.update] - DEBUG - Army 2193859413520 moved to tile (26, 6) (Faction: Shadow Syndicate).
+2025-06-22 05:55:56 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:57 - [army.update] - DEBUG - Army 2193859412848 moved to tile (14, 21) (Faction: Order of the Sun).
+2025-06-22 05:55:57 - [army.update] - DEBUG - Army 2193859412848 moved to tile (14, 20) (Faction: Order of the Sun).
+2025-06-22 05:55:57 - [army.update] - DEBUG - Army 2193859413520 moved to tile (26, 7) (Faction: Shadow Syndicate).
+2025-06-22 05:55:57 - [army.update] - DEBUG - Army 2193859413520 moved to tile (25, 7) (Faction: Shadow Syndicate).
+2025-06-22 05:55:58 - [army.update] - DEBUG - Army 2193859412848 moved to tile (15, 20) (Faction: Order of the Sun).
+2025-06-22 05:55:58 - [army.update] - DEBUG - Army 2193859412848 moved to tile (15, 19) (Faction: Order of the Sun).
+2025-06-22 05:55:58 - [army.update] - DEBUG - Army 2193859413520 moved to tile (25, 8) (Faction: Shadow Syndicate).
+2025-06-22 05:55:58 - [army.update] - DEBUG - Army 2193859413520 moved to tile (24, 8) (Faction: Shadow Syndicate).
+2025-06-22 05:55:58 - [army.update] - DEBUG - Army 2193859412848 moved to tile (16, 19) (Faction: Order of the Sun).
+2025-06-22 05:55:58 - [army.update] - DEBUG - Army 2193859412848 moved to tile (16, 18) (Faction: Order of the Sun).
+2025-06-22 05:55:58 - [army.update] - DEBUG - Army 2193859413520 moved to tile (24, 9) (Faction: Shadow Syndicate).
+2025-06-22 05:55:58 - [army.update] - DEBUG - Army 2193859413520 moved to tile (23, 9) (Faction: Shadow Syndicate).
+2025-06-22 05:55:58 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:59 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:55:59 - [army.update] - DEBUG - Army 2193859412848 moved to tile (16, 17) (Faction: Order of the Sun).
+2025-06-22 05:55:59 - [army.update] - DEBUG - Army 2193859413520 moved to tile (23, 10) (Faction: Shadow Syndicate).
+2025-06-22 05:55:59 - [army.update] - DEBUG - Army 2193859413520 moved to tile (22, 10) (Faction: Shadow Syndicate).
+2025-06-22 05:55:59 - [army.update] - DEBUG - Army 2193859412848 moved to tile (17, 17) (Faction: Order of the Sun).
+2025-06-22 05:55:59 - [army.update] - DEBUG - Army 2193859412848 moved to tile (17, 16) (Faction: Order of the Sun).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859413520 moved to tile (22, 11) (Faction: Shadow Syndicate).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859413520 moved to tile (21, 11) (Faction: Shadow Syndicate).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859412848 moved to tile (18, 16) (Faction: Order of the Sun).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859412848 moved to tile (18, 15) (Faction: Order of the Sun).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859413520 moved to tile (21, 12) (Faction: Shadow Syndicate).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859412848 moved to tile (19, 15) (Faction: Order of the Sun).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859412848 moved to tile (19, 14) (Faction: Order of the Sun).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859413520 moved to tile (21, 13) (Faction: Shadow Syndicate).
+2025-06-22 05:56:00 - [army.update] - DEBUG - Army 2193859413520 moved to tile (20, 13) (Faction: Shadow Syndicate).
+2025-06-22 05:56:00 - [general_ai.update] - DEBUG - General Grommash Hellscream recalculated a path to the target.
+2025-06-22 05:56:00 - [game._handle_collisions] - INFO - Collision: A meeting engagement between Order of the Sun and Shadow Syndicate!
+2025-06-22 05:56:00 - [army.set_target] - DEBUG - Army 2193859412848 of Order of the Sun has cleared its target.
+2025-06-22 05:56:00 - [army.set_target] - DEBUG - Army 2193859413520 of Shadow Syndicate has cleared its target.
+2025-06-22 05:56:30 - [game._update_combats] - INFO - Combat finished. Winner: Shadow Syndicate. Loser: Order of the Sun.
+2025-06-22 06:04:19 - [game._handle_input] - INFO - TILE INFO: (26, 8) | type: Mountain Peak (key: MOUNTAIN_PEAK) | walkable: False | move_cost: inf | defense: 0 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:04:21 - [game._handle_input] - INFO - TILE INFO: (25, 7) | type: Plateau (key: PLATEAU) | walkable: True | move_cost: 1.8 | defense: 10 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:04:22 - [game._handle_input] - INFO - TILE INFO: (26, 7) | type: Plateau (key: PLATEAU) | walkable: True | move_cost: 0.9 | defense: 10 | features: ['Road'] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:04:23 - [game._handle_input] - INFO - TILE INFO: (26, 5) | type: Hills (key: HILLS) | walkable: True | move_cost: 3.0 | defense: 8 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:04:25 - [game._handle_input] - INFO - TILE INFO: (36, 2) | type: Deciduous Forest (key: DECIDUOUS_FOREST) | walkable: True | move_cost: 2.5 | defense: 7 | features: [] | territory: 3 | owner: Shadow Syndicate
+2025-06-22 06:05:05 - [game._handle_input] - INFO - TILE INFO: (0, 0) | type: Deep Water (key: DEEP_WATER) | walkable: False | move_cost: inf | defense: 0 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:05:11 - [game._handle_input] - INFO - TILE INFO: (2, 0) | type: Shallow River (key: SHALLOW_RIVER) | walkable: True | move_cost: 3.5 | defense: -5 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:05:24 - [game._handle_input] - INFO - TILE INFO: (1, 0) | type: Water (key: WATER) | walkable: False | move_cost: inf | defense: 0 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:06:00 - [game._handle_input] - INFO - TILE INFO: (3, 0) | type: Plains (key: PLAINS) | walkable: True | move_cost: 1.0 | defense: 1 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:06:00 - [game._handle_input] - INFO - TILE INFO: (3, 0) | type: Plains (key: PLAINS) | walkable: True | move_cost: 1.0 | defense: 1 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:06:00 - [game._handle_input] - INFO - TILE INFO: (3, 0) | type: Plains (key: PLAINS) | walkable: True | move_cost: 1.0 | defense: 1 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:06:00 - [game._handle_input] - INFO - TILE INFO: (3, 0) | type: Plains (key: PLAINS) | walkable: True | move_cost: 1.0 | defense: 1 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:06:00 - [game._handle_input] - INFO - TILE INFO: (3, 0) | type: Plains (key: PLAINS) | walkable: True | move_cost: 1.0 | defense: 1 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:06:11 - [game._handle_input] - INFO - TILE INFO: (5, 1) | type: Deciduous Forest (key: DECIDUOUS_FOREST) | walkable: True | move_cost: 2.5 | defense: 7 | features: [] | territory: 0 | owner: Order of the Sun
+2025-06-22 06:06:29 - [game._handle_input] - INFO - TILE INFO: (82, 12) | type: Wasteland (key: WASTELAND) | walkable: True | move_cost: 1.2 | defense: 0 | features: [] | territory: 6 | owner: Order of the Sun
+2025-06-22 06:06:44 - [game._handle_input] - INFO - TILE INFO: (23, 77) | type: Plains (key: PLAINS) | walkable: True | move_cost: 1.0 | defense: 1 | features: [] | territory: 2 | owner: Order of the Sun
+2025-06-22 06:06:44 - [game._handle_input] - INFO - TILE INFO: (23, 77) | type: Plains (key: PLAINS) | walkable: True | move_cost: 1.0 | defense: 1 | features: [] | territory: 2 | owner: Order of the Sun
