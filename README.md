@@ -24,7 +24,7 @@ Eternal War Chronicles is a 2D strategy game set in a medieval world. The player
 ---
 
 ## Скриншоты / Screenshots
-(Добавьте сюда скриншоты, если есть)
+
 
 ---
 
@@ -58,4 +58,3 @@ python main.py
 ---
 
 ## Контакты / Contacts
-(Добавьте свои контакты или ссылку на GitHub-профиль) 
